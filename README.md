@@ -2,9 +2,9 @@
 ### Bem vindos ao meu perfil
 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Apaixonado por tecnologia e desenvolvimento de software
-🚀 Buscando sempre aprimorar meus conhecimentos e contribuir para a comunidade
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Apaixonado por tecnologia e desenvolvimento de software <br>
+🚀 Buscando sempre aprimorar meus conhecimentos e contribuir para a comunidade <br>
 
 ## Tecnologias e Ferramentas 🔧 
 
